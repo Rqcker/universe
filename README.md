@@ -1,6 +1,6 @@
 # Universe :telescope: :earth_americas:
-Artificial Universe 
+Artificial Universe Model
 
-Simulated universe of 100k Stars
+Simulated universe model of 100k Stars
 
 by 100k-Star-Challenge
